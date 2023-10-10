@@ -18,4 +18,4 @@
 * CSS
 * JavaScript
   
-#projeto feito atraves do curso da Alura
+# projeto feito atraves do curso da Alura
